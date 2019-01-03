@@ -1,2 +1,2 @@
-# Tugas-Algoritma-Pemrograman
-Program Menentukan Bilangan Ganjil &amp; Genap
+# Program-Menentukan-Bilangan-Ganil-Genap
+Program Menentukan Bilangan Ganjil & amp; Genap
